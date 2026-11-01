@@ -8,7 +8,7 @@ PDF 기출과 손필기 사진을, 수식이 살아 있는 한글(.hwpx) 파일�
 
 ## 받기
 
-[최신 버전 받기](https://github.com/kyijgnes/mathmetry/releases/latest)에서 `Mathmetry-설치-<버전>.exe` 를 받아 실행합니다.
+[최신 버전 받기](https://github.com/kyijgnes/mathmetry/releases/latest)에서 `Mathmetry-Setup-<버전>.exe` 를 받아 실행합니다.
 
 - 관리자 권한 없이 설치됩니다.
 - 코드 서명을 하지 않아, 처음 실행할 때 「Windows의 PC 보호」 창이 뜰 수 있습니다. 「추가 정보」 → 「실행」을 누르면 됩니다.
